@@ -94,6 +94,11 @@ ul{
 body{
 
     background-color:#944E63 ;
+    color: #B47B84;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
 
 }
 
@@ -104,3 +109,19 @@ body{
     color: #FBF9F1;
 }
 
+a:link{
+    color: #EEA5A6;
+}
+
+a:active{
+    color: #E0AED0;
+}
+
+a:hover{
+    color: #B784B7;
+}
+
+a:visited{
+    color: #E0AED0;
+    
+}
