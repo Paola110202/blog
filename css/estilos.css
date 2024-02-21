@@ -12,6 +12,7 @@ h1{
     background-color:#B784B7;
     padding: 1%;
 
+
 }
 
 
@@ -37,5 +38,22 @@ p{
     font-style: normal;
     font-size: xx-large;
     margin: 50px;
+    
+}
+
+a:link{
+    color: #EEA5A6;
+}
+
+a:active{
+    color: #E0AED0;
+}
+
+a:hover{
+    color: #B784B7;
+}
+
+a:visited{
+    color: #E0AED0;
     
 }
